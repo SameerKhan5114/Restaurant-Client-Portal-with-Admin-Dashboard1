@@ -7,9 +7,6 @@ backend/node_modules
 frontend/.env
 backend/.env
 
-# Build outputs
-frontend/build
-backend/dist
 
 # Logs and misc
 *.log
